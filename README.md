@@ -4,7 +4,7 @@ Backpack.tf Key/Refined History Checker
 
 ## Install (one-click)
 
-- Userscript: https://raw.githubusercontent.com/williambrooks84/key-refined-history-checker/main/key-refined-history-checker.js
+- Userscript: https://raw.githubusercontent.com/williambrooks84/key-refined-history-checker/main/key-refined-history-checker.user.js
 
 ## Quick install (Tampermonkey / Greasemonkey)
 

@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name        Backpack.tf Key/Refined History Checker
 // @namespace   https://github.com/williambrooks84/key-refined-history-checker
-// @version     1.0.0
+// @version     1.0.1
 // @description Check key/refined history matches for a username in backpack.tf compare.
 // @author      William Brooks (Strange Fry on Steam)
-// @updateURL   https://raw.githubusercontent.com/williambrooks84/key-refined-history-checker/main/key-refined-history-checker.js
-// @downloadURL https://raw.githubusercontent.com/williambrooks84/key-refined-history-checker/main/key-refined-history-checker.js
+// @updateURL   https://raw.githubusercontent.com/williambrooks84/key-refined-history-checker/main/key-refined-history-checker.user.js
+// @downloadURL https://raw.githubusercontent.com/williambrooks84/key-refined-history-checker/main/key-refined-history-checker.user.js
 // @grant       GM_xmlhttpRequest
 // @grant       GM_addStyle
 // @run-at      document-end
